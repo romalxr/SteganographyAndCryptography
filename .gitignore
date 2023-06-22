@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/
+/Steganography and Cryptography/task/out/production/classes/
